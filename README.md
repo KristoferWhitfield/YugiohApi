@@ -3,7 +3,7 @@ Here's my web application that allows users to search for the current average pr
 
 **Link to project:** ygoprices.netlify.app
 
-(![screenshot](https://user-images.githubusercontent.com/78818078/116952550-e42a2980-ac58-11eb-92a3-0646ffa47544.JPG))
+![screenshot](https://user-images.githubusercontent.com/78818078/116952550-e42a2980-ac58-11eb-92a3-0646ffa47544.JPG)
 
 ## How It's Made:
 
